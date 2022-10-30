@@ -1,0 +1,30 @@
+C:\GitHub\snake\Snake\Snake\bin\Debug\net6.0\Snake.exe
+C:\GitHub\snake\Snake\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\GitHub\snake\Snake\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\GitHub\snake\Snake\Snake\bin\Debug\net6.0\Snake.dll
+C:\GitHub\snake\Snake\Snake\bin\Debug\net6.0\Snake.pdb
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\Snake.dll
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\Snake.pdb
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+C:\GitHub\snake\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
+C:\GitHub\lesson 1\Snake\Snake\bin\Debug\net6.0\Snake.exe
+C:\GitHub\lesson 1\Snake\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\GitHub\lesson 1\Snake\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\GitHub\lesson 1\Snake\Snake\bin\Debug\net6.0\Snake.dll
+C:\GitHub\lesson 1\Snake\Snake\bin\Debug\net6.0\Snake.pdb
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\Snake.dll
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\Snake.pdb
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+C:\GitHub\lesson 1\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
